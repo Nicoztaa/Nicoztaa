@@ -1,4 +1,9 @@
-## Hi there 👋
+## Holiii 👋
+
+- Estoy estudiando ingenieria de sistemas en la ETITC
+- Estoy aprendiendo java
+- Me gusta el valo, el fortnite y el rocket
+--> no le se al github kjaskja
 
 <!--
 **Nicoztaa/Nicoztaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
